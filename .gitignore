@@ -1,3 +1,8 @@
+# Files related to project that are not necessary to be uploaded to Github
+terms_and_conditions/
+Udacity_AZDIAS_Subset.csv
+Udacity_CUSTOMERS_Subset.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
